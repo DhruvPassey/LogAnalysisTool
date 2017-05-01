@@ -1,0 +1,1 @@
+This folder is where the outputs get temporarily stored so that they can be used as input by the next step in the sequence.
